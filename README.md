@@ -22,9 +22,9 @@
 
 Date| Title(知乎链接)| Code| Note
 :---|---|---|---
-2023-09-30|[LLM之显存占用](https://zhuanlan.zhihu.com/p/658343628)|[memory_precision.ipynb](URL)|不同精度下显存占用与相互转换实践
-2023-09-29|[LLM之精度问题详解](https://zhuanlan.zhihu.com/p/657886517)|[precision.ipynb](URL)|精度问题（FP16，FP32，BF16）详解与实践
-2023-09-24|[LLM之Embedding初始化](https://zhuanlan.zhihu.com/p/656335338)|[embedding_init.ipynb](URL)|扩充词表后Embedding和LM_head层的初始化
-2023-09-23|[LLM之扩充词表](https://zhuanlan.zhihu.com/p/655281268)|[sentencepiece.ipynb](URL)|基于SentencePiece扩充LLaMa中文词表实践
-2023-09-16|[LLM之Generate参数详解](https://zhuanlan.zhihu.com/p/653926703)|[generate_parameter.ipynb](URL)|Generate/Inference（生成/推理）中参数与解码策略原理及其代码实现
-2023-09-09|[LLM之Tokenization分词方法](https://zhuanlan.zhihu.com/p/652520262)|[tokenization.ipynb](URL)|WordPiece，Byte-Pair Encoding (BPE)，Byte-level BPE(BBPE)原理及其代码实现
+2023-09-30|[LLM之显存占用](https://zhuanlan.zhihu.com/p/658343628)|[memory_precision.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/memory_precision.ipynb)|不同精度下显存占用与相互转换实践
+2023-09-29|[LLM之精度问题详解](https://zhuanlan.zhihu.com/p/657886517)|[precision.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/precision.ipynb)|精度问题（FP16，FP32，BF16）详解与实践
+2023-09-24|[LLM之Embedding初始化](https://zhuanlan.zhihu.com/p/656335338)|[embedding_init.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/embedding_init.ipynb)|扩充词表后Embedding和LM_head层的初始化
+2023-09-23|[LLM之扩充词表](https://zhuanlan.zhihu.com/p/655281268)|[sentencepiece.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/sentencepiece.ipynb)|基于SentencePiece扩充LLaMa中文词表实践
+2023-09-16|[LLM之Generate参数详解](https://zhuanlan.zhihu.com/p/653926703)|[generate_parameter.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/generate_parameter.ipynb)|Generate/Inference（生成/推理）中参数与解码策略原理及其代码实现
+2023-09-09|[LLM之Tokenization分词方法](https://zhuanlan.zhihu.com/p/652520262)|[tokenization.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/tokenization.ipynb)|WordPiece，Byte-Pair Encoding (BPE)，Byte-level BPE(BBPE)原理及其代码实现
