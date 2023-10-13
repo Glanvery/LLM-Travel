@@ -22,7 +22,7 @@
 
 Date| Title(知乎链接)| Code| Note
 :---|---|---|---
-2023-10-10|[LLM之开源数据整理]()|[LLM_Pretrain_Datasets](https://github.com/Glanvery/LLM-Travel/blob/main/LLM_Pretrain_Datasets.md)|开源的可用于LLM Pretrain数据集
+2023-10-10|[LLM之开源数据整理](https://www.zhihu.com/question/609604943/answer/3248054165)|[LLM_Pretrain_Datasets](https://github.com/Glanvery/LLM-Travel/blob/main/LLM_Pretrain_Datasets.md)|开源的可用于LLM Pretrain数据集
 2023-10-10|[LLM之数据处理一](https://zhuanlan.zhihu.com/p/660806587)|[无]()|LLM大模型之大规模数据处理工具篇Hadoop-Spark集群介绍
 2023-09-30|[LLM之显存占用](https://zhuanlan.zhihu.com/p/658343628)|[memory_precision.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/memory_precision.ipynb)|不同精度下显存占用与相互转换实践
 2023-09-29|[LLM之精度问题详解](https://zhuanlan.zhihu.com/p/657886517)|[precision.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/precision.ipynb)|精度问题（FP16，FP32，BF16）详解与实践
