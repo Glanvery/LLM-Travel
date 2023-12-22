@@ -22,7 +22,9 @@
 
 Date| Title(知乎链接)| Code| Note
 :---|---|---|---
-2023-10-14|[LLM之Trainer](https://zhuanlan.zhihu.com/p/662619853)|[无]()|LLM大模型之Trainer以及训练参数
+2023-12-16|[LLM之Deepspeed实践](https://www.zhihu.com/question/371094177/answer/3330130413)|[无]()|Deepspeed实践
+2023-11-11|[LLM之数据质量](https://zhuanlan.zhihu.com/p/670365989)|[(https://github.com/Glanvery/LLM-Travel/blob/main/quality_hash.ipynb)|LLM大模型之大规模数据文本质量(Text Quality)实践一
+2023-11-04|[LLM之Trainer](https://zhuanlan.zhihu.com/p/662619853)|[无]()|LLM大模型之Trainer以及训练参数
 2023-10-14|[LLM之数据处理二](https://zhuanlan.zhihu.com/p/661421095)|[无]()|LLM大模型之大规模数据处理工具篇Hadoop-Spark集群安装
 2023-10-10|[LLM之开源数据整理](https://www.zhihu.com/question/609604943/answer/3248054165)|[LLM_Pretrain_Datasets](https://github.com/Glanvery/LLM-Travel/blob/main/LLM_Pretrain_Datasets.md)|开源的可用于LLM Pretrain数据集
 2023-10-10|[LLM之数据处理一](https://zhuanlan.zhihu.com/p/660806587)|[无]()|LLM大模型之大规模数据处理工具篇Hadoop-Spark集群介绍
