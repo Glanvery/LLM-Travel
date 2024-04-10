@@ -22,6 +22,7 @@
 
 Date| Title(知乎链接)| Code| Note
 :---|---|---|---
+2024-04-09|[Transformer实践](https://www.zhihu.com/question/445556653/answer/3460351120)|[Transformer_torch](https://github.com/Glanvery/LLM-Travel/blob/main/transformer_torch.ipynb)|Transformer实践
 2023-12-16|[LLM之Deepspeed实践](https://www.zhihu.com/question/371094177/answer/3330130413)|[无]()|Deepspeed实践
 2023-11-11|[LLM之数据质量](https://zhuanlan.zhihu.com/p/670365989)|[quality_hash.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/quality_hash.ipynb)|LLM大模型之大规模数据文本质量(Text Quality)实践一
 2023-11-04|[LLM之Trainer](https://zhuanlan.zhihu.com/p/662619853)|[无]()|LLM大模型之Trainer以及训练参数
