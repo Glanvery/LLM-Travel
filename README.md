@@ -5,12 +5,13 @@
 ## Introduction
 
 欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。
+文章在知乎：https://www.zhihu.com/people/allenvery/posts
 
 ### 这里会有什么 🌟
 
 - **技术讲解**: 通过清晰且深入的文章，尽力揭示大语言模型的相关技术，探讨其背后的数学、算法和架构，帮助您理解它们的运作机制。
 
-- **实用代码实现**: 每篇技术文章都会配置相应的实践代码，帮助更好的理解和实现。
+- **实用代码实现**: 每篇技术文章会配置相应的实践代码，帮助更好的理解和实现。
 
 - **解答疑问与讨论**: 欢迎提出问题、分享想法，以及想看到哪些内容，一起探讨大语言模型！
 
@@ -22,6 +23,9 @@
 
 Date| Title(知乎链接)| Code| Note
 :---|---|---|---
+2024-06-23|[LLM大模型之Hallucination幻觉](https://zhuanlan.zhihu.com/p/703034375)|[无]()|LLM大模型之Hallucination幻觉
+2024-06-03|[LLM大模型之分布式训练小结](https://zhuanlan.zhihu.com/p/699938704)|[无]()|LLM大模型之分布式训练小结
+2024-05-10|[LLM大模型之训练优化方法](https://zhuanlan.zhihu.com/p/698787661)|[无]()|LLM大模型之训练优化方法
 2024-04-09|[Transformer实践](https://www.zhihu.com/question/445556653/answer/3460351120)|[Transformer_torch](https://github.com/Glanvery/LLM-Travel/blob/main/transformer_torch.ipynb)|Transformer实践
 2023-12-16|[LLM之Deepspeed实践](https://www.zhihu.com/question/371094177/answer/3330130413)|[无]()|Deepspeed实践
 2023-11-11|[LLM之数据质量](https://zhuanlan.zhihu.com/p/670365989)|[quality_hash.ipynb](https://github.com/Glanvery/LLM-Travel/blob/main/quality_hash.ipynb)|LLM大模型之大规模数据文本质量(Text Quality)实践一
